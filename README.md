@@ -23,6 +23,5 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,vscode,github" />
-  <img src="https://skillicons.dev/icons?i=figma,canva,capcut" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white&labelColor=000000" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
