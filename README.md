@@ -14,7 +14,6 @@
 ## ℹ️ About Me
 * **2nd Year BSIT Student** at the Polytechnic University of the Philippines, Lopez Campus, bridging the gap between clean code and striking visual design.
 * **Graphic Designer** with 4 years of experience managing social media visuals, brand layouts, and digital video production.
-* **Aspiring UI/UX Designer & Front-End Developer** eager to grow at the intersection of technology and design, with a strong focus on responsive web interfaces and user experiences.
 * 📍 Lopez, Quezon, Philippines
 
 ---
