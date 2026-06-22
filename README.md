@@ -27,5 +27,6 @@
   <br><br>
   <b>Design & Creative Production:</b><br>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
-  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white" height="40" alt="CapCut" />
+  <br>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white&labelColor=000000" height="50" />
 </p>
