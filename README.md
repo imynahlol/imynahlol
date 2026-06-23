@@ -11,14 +11,14 @@
 
 ---
 
-## ℹ️ About Me
-* **2nd Year BSIT Student** at the Polytechnic University of the Philippines, Lopez Campus, bridging the gap between clean code and striking visual design.
-* **Graphic Designer** with 4 years of experience managing social media visuals, brand layouts, and digital video production.
+## 🎀 about me
+* 💻 information technology @ polytechnic university of the philippines
+* 🎨 graphic designer, publication materials, brand layouts, and digital video production
 * 📍 Lopez, Quezon, Philippines
 
 ---
 
-## 🛠️ Technology & Creative Ecosystem
+## 🛠️ technology & creative ecosystem
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,vscode,github" />
