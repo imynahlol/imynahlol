@@ -28,5 +28,12 @@
 - <img src="https://skillicons.dev/icons?i=instagram" height="20" style="vertical-align: middle;" /> &nbsp; [`@ilovynah`](https://instagram.com/ilovynah)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imynahlol/imynahlol/output/github-snake.svg?v=1" alt="github-snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/imynahlol/imynahlol/output/github-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/imynahlol/imynahlol/output/github-snake.svg?v=1">
+    <img alt="github-snake" 
+         src="https://raw.githubusercontent.com/imynahlol/imynahlol/output/github-snake.svg?v=1">
+  </picture>
 </div>
