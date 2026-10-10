@@ -24,7 +24,7 @@
 ## <img src="assets/choco-bread.png" height="38" style="vertical-align: middle;" /> &nbsp; let's connect
 
 - <img src="https://skillicons.dev/icons?i=gmail" height="20" style="vertical-align: middle;" /> &nbsp; [`johahnieynahmarise07@gmail.com`](mailto:johahnieynahmarise07@gmail.com)
-- <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="vertical-align: middle;" /> &nbsp; [`@imynahlol`](https://linkedin.com/in/your-profile)
+- <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="vertical-align: middle;" /> &nbsp; [`@imynahlol`](https://linkedin.com/in/imynahlol)
 - <img src="https://skillicons.dev/icons?i=instagram" height="20" style="vertical-align: middle;" /> &nbsp; [`@ilovynah`](https://instagram.com/ilovynah)
 
 <div align="center">
